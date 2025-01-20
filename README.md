@@ -13,7 +13,8 @@ TestFilesCreate is a Linux portable executable created from the bash script [TFi
 
 ### Dependency
 This requires a bash environment to run. 
-An exceutable created from the *shc* utility always requires bash. More : [Github shc](https://github.com/neurobin/shc)   
+An exceutable created from the *shc* utility always requires bash. 
+More : [Github shc](https://github.com/neurobin/shc)   
 _______________________________________________________________________
 
 ## CALCULATOR mode  (interactive, tree only) 
